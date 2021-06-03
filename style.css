@@ -8,61 +8,61 @@ body {
 
 .pmp {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 10px;
+  padding: 140px;
+  padding-bottom: 10px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 6px;
 }
 
 .pmps {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 6px;
+  padding: 140px;
+  padding-bottom: 20px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 10px;
 }
 
 .pmpss {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 6px;
+  padding: 140px;
+  padding-bottom: 10px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 10px;
 }
 
 .pmpsss {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 6px;
+  padding: 140px;
+  padding-bottom: 10px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 10px;
 }
 
 .pmpssss {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 6px;
+  padding: 140px;
+  padding-bottom: 10px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 10px;
 }
 
 .youtubers {
   color: #f0f0f0;
-  padding: 70px;
-  padding-bottom: 5px;
-  padding-top: 6px;
+  padding: 140px;
+  padding-bottom: 10px;
+  padding-top: 20px;
   font-family: 'Open Sans', sans-serif;
   height: 10px;
 }
 
 .pmplugins {
   width:100%;
-  height: 150px;
+  height: 50px;
   background-color: #b1b1b1;
   border-left: 5px solid red;
   border-top: 5px solid gray;
@@ -97,7 +97,7 @@ body {
 
 .pmpluginsssss {
   width: 100%;
-  height: 25px;
+  height: 50px;
   background-color: #b1b1b1;
   border-left: 5px solid blue;
   border-top: 5px solid gray;
@@ -107,7 +107,7 @@ body {
 
 .youtuberss {
   width: 100%;
-  height: 25px;
+  height: 50px;
   background-color: #b1b1b1;
   border-left: 5px solid rgb(249,0,235);
   border-top: 5px solid gray;
