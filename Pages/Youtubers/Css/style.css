@@ -1,1 +1,27 @@
+body {
+  background-color: rgb(38,38,38);
+}
 
+.fliperlogoimg {
+  width: 396px;
+}
+
+.flipergamerzch {
+  margin-left: 140px;
+  color: rgb(255,251,9);
+}
+
+.subs {
+  margin-left: 130px;
+  color: rgb(255,18,18);
+}
+
+.flipergamerzlink {
+  text-decoration: none;
+  margin-top:  20px;
+}
+
+#al {
+  color: #20ff00;
+  margin-left: 60px;
+}
